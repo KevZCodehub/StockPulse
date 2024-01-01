@@ -1,6 +1,7 @@
 This is an app that allows the visualization of a certain stock that can be chosen on the sidebar and displayed as a graph
 
 the graph can be manipulated in many ways to allow the user the flexibility of doing whatever they could want
+![Screenshot 2024-01-01 at 3 06 06 PM](https://github.com/KevZCodehub/StockPulse/assets/141958254/adaca31a-a479-4bdf-a999-367b37892f65)
 
 
 to run this code, just clone the repository and run 
